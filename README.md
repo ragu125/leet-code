@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ragu125/leet-code/tree/master/0078-subsets) |
 | [1470-shuffle-the-array](https://github.com/ragu125/leet-code/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ragu125/leet-code/tree/master/1929-concatenation-of-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/ragu125/leet-code/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/ragu125/leet-code/tree/master/1929-concatenation-of-array) |
+## Hash Table
+|  |
+| ------- |
+| [2215-find-the-difference-of-two-arrays](https://github.com/ragu125/leet-code/tree/master/2215-find-the-difference-of-two-arrays) |
 <!---LeetCode Topics End-->
