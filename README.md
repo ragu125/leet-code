@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ragu125/leet-code/tree/master/0027-remove-element) |
 | [0078-subsets](https://github.com/ragu125/leet-code/tree/master/0078-subsets) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ragu125/leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/ragu125/leet-code/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/ragu125/leet-code/tree/master/0283-move-zeroes) |
 | [1470-shuffle-the-array](https://github.com/ragu125/leet-code/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ragu125/leet-code/tree/master/1929-concatenation-of-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ragu125/leet-code/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ragu125/leet-code/tree/master/0202-happy-number) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ragu125/leet-code/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Floyd's Cycle Finding Algorithm
@@ -93,4 +95,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/ragu125/leet-code/tree/master/0175-combine-two-tables) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ragu125/leet-code/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ragu125/leet-code/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ragu125/leet-code/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ragu125/leet-code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
