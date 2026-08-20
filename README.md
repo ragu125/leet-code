@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ragu125/leet-code/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/ragu125/leet-code/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/ragu125/leet-code/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/ragu125/leet-code/tree/master/0704-binary-search) |
 | [1470-shuffle-the-array](https://github.com/ragu125/leet-code/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ragu125/leet-code/tree/master/1929-concatenation-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ragu125/leet-code/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ragu125/leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/ragu125/leet-code/tree/master/0704-binary-search) |
 ## Greedy
 |  |
 | ------- |
