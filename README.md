@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ragu125/leet-code/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ragu125/leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ragu125/leet-code/tree/master/0027-remove-element) |
+| [0041-first-missing-positive](https://github.com/ragu125/leet-code/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/ragu125/leet-code/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ragu125/leet-code/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/ragu125/leet-code/tree/master/0078-subsets) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/ragu125/leet-code/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/ragu125/leet-code/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ragu125/leet-code/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ragu125/leet-code/tree/master/0217-contains-duplicate) |
