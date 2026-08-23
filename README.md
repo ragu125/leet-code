@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ragu125/leet-code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ragu125/leet-code/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/ragu125/leet-code/tree/master/0263-ugly-number) |
+| [0412-fizz-buzz](https://github.com/ragu125/leet-code/tree/master/0412-fizz-buzz) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/ragu125/leet-code/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ragu125/leet-code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ragu125/leet-code/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ragu125/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ragu125/leet-code/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/ragu125/leet-code/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/ragu125/leet-code/tree/master/0709-to-lower-case) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/ragu125/leet-code/tree/master/1812-determine-color-of-a-chessboard-square) |
 ## Stack
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ragu125/leet-code/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/ragu125/leet-code/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/ragu125/leet-code/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
