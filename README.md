@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ragu125/leet-code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ragu125/leet-code/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ragu125/leet-code/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ragu125/leet-code/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/ragu125/leet-code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ragu125/leet-code/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/ragu125/leet-code/tree/master/0263-ugly-number) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ragu125/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/ragu125/leet-code/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/ragu125/leet-code/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/ragu125/leet-code/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/ragu125/leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ragu125/leet-code/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/ragu125/leet-code/tree/master/0709-to-lower-case) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ragu125/leet-code/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/ragu125/leet-code/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ragu125/leet-code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ragu125/leet-code/tree/master/0137-single-number-ii) |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ragu125/leet-code/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/ragu125/leet-code/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
