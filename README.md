@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/ragu125/leet-code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ragu125/leet-code/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/ragu125/leet-code/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/ragu125/leet-code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ragu125/leet-code/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/ragu125/leet-code/tree/master/0263-ugly-number) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/ragu125/leet-code/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/ragu125/leet-code/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ragu125/leet-code/tree/master/0047-permutations-ii) |
+| [0066-plus-one](https://github.com/ragu125/leet-code/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/ragu125/leet-code/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ragu125/leet-code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ragu125/leet-code/tree/master/0137-single-number-ii) |
