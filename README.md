@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ragu125/leet-code/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/ragu125/leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ragu125/leet-code/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/ragu125/leet-code/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/ragu125/leet-code/tree/master/0709-to-lower-case) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/ragu125/leet-code/tree/master/1812-determine-color-of-a-chessboard-square) |
 ## Stack
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ragu125/leet-code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ragu125/leet-code/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/ragu125/leet-code/tree/master/0260-single-number-iii) |
+| [0389-find-the-difference](https://github.com/ragu125/leet-code/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ragu125/leet-code/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ragu125/leet-code/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ragu125/leet-code/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/ragu125/leet-code/tree/master/0389-find-the-difference) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ragu125/leet-code/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/ragu125/leet-code/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/ragu125/leet-code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ragu125/leet-code/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/ragu125/leet-code/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
