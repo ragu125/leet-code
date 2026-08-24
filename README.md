@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ragu125/leet-code/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/ragu125/leet-code/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/ragu125/leet-code/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/ragu125/leet-code/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/ragu125/leet-code/tree/master/0704-binary-search) |
 | [1470-shuffle-the-array](https://github.com/ragu125/leet-code/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ragu125/leet-code/tree/master/1929-concatenation-of-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ragu125/leet-code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ragu125/leet-code/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/ragu125/leet-code/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/ragu125/leet-code/tree/master/0414-third-maximum-number) |
 ## Counting
 |  |
 | ------- |
