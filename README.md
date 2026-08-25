@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/ragu125/leet-code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ragu125/leet-code/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/ragu125/leet-code/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ragu125/leet-code/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ragu125/leet-code/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/ragu125/leet-code/tree/master/0189-rotate-array) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/ragu125/leet-code/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/ragu125/leet-code/tree/master/0206-reverse-linked-list) |
 ## Dynamic Programming
 |  |
