@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ragu125/leet-code/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ragu125/leet-code/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ragu125/leet-code/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/ragu125/leet-code/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ragu125/leet-code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ragu125/leet-code/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/ragu125/leet-code/tree/master/0263-ugly-number) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ragu125/leet-code/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ragu125/leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/ragu125/leet-code/tree/master/0704-binary-search) |
 ## Greedy
@@ -222,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ragu125/leet-code/tree/master/0387-first-unique-character-in-a-string) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ragu125/leet-code/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
