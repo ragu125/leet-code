@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/ragu125/leet-code/tree/master/0908-smallest-range-i) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/ragu125/leet-code/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ragu125/leet-code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ragu125/leet-code/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ragu125/leet-code/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ragu125/leet-code/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ragu125/leet-code/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ragu125/leet-code/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
