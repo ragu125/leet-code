@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ragu125/leet-code/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ragu125/leet-code/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ragu125/leet-code/tree/master/0058-length-of-last-word) |
+| [0065-valid-number](https://github.com/ragu125/leet-code/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/ragu125/leet-code/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/ragu125/leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ragu125/leet-code/tree/master/0344-reverse-string) |
