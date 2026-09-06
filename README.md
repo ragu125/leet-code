@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ragu125/leet-code/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/ragu125/leet-code/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/ragu125/leet-code/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/ragu125/leet-code/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/ragu125/leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ragu125/leet-code/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/ragu125/leet-code/tree/master/0383-ransom-note) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ragu125/leet-code/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/ragu125/leet-code/tree/master/0032-longest-valid-parentheses) |
+| [0115-distinct-subsequences](https://github.com/ragu125/leet-code/tree/master/0115-distinct-subsequences) |
 | [0509-fibonacci-number](https://github.com/ragu125/leet-code/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/ragu125/leet-code/tree/master/0678-valid-parenthesis-string) |
 ## Manacher
