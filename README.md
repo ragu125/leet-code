@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ragu125/leet-code/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/ragu125/leet-code/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/ragu125/leet-code/tree/master/0709-to-lower-case) |
+| [1668-maximum-repeating-substring](https://github.com/ragu125/leet-code/tree/master/1668-maximum-repeating-substring) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/ragu125/leet-code/tree/master/1812-determine-color-of-a-chessboard-square) |
 ## Stack
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ragu125/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1668-maximum-repeating-substring](https://github.com/ragu125/leet-code/tree/master/1668-maximum-repeating-substring) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/ragu125/leet-code/tree/master/0115-distinct-subsequences) |
 | [0509-fibonacci-number](https://github.com/ragu125/leet-code/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/ragu125/leet-code/tree/master/0678-valid-parenthesis-string) |
+| [1668-maximum-repeating-substring](https://github.com/ragu125/leet-code/tree/master/1668-maximum-repeating-substring) |
 ## Manacher
 |  |
 | ------- |
