@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ragu125/leet-code/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0908-smallest-range-i](https://github.com/ragu125/leet-code/tree/master/0908-smallest-range-i) |
 | [1470-shuffle-the-array](https://github.com/ragu125/leet-code/tree/master/1470-shuffle-the-array) |
+| [1539-kth-missing-positive-number](https://github.com/ragu125/leet-code/tree/master/1539-kth-missing-positive-number) |
 | [1929-concatenation-of-array](https://github.com/ragu125/leet-code/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ragu125/leet-code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ragu125/leet-code/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ragu125/leet-code/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/ragu125/leet-code/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ragu125/leet-code/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1539-kth-missing-positive-number](https://github.com/ragu125/leet-code/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ragu125/leet-code/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Greedy
 |  |
