@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/ragu125/leet-code/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/ragu125/leet-code/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/ragu125/leet-code/tree/master/0704-binary-search) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/ragu125/leet-code/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0908-smallest-range-i](https://github.com/ragu125/leet-code/tree/master/0908-smallest-range-i) |
 | [1470-shuffle-the-array](https://github.com/ragu125/leet-code/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ragu125/leet-code/tree/master/1929-concatenation-of-array) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ragu125/leet-code/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/ragu125/leet-code/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/ragu125/leet-code/tree/master/0455-assign-cookies) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/ragu125/leet-code/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ragu125/leet-code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ragu125/leet-code/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/ragu125/leet-code/tree/master/3731-find-missing-elements) |
