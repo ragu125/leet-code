@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/ragu125/leet-code/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/ragu125/leet-code/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ragu125/leet-code/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ragu125/leet-code/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/ragu125/leet-code/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/ragu125/leet-code/tree/master/0509-fibonacci-number) |
 | [0908-smallest-range-i](https://github.com/ragu125/leet-code/tree/master/0908-smallest-range-i) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ragu125/leet-code/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/ragu125/leet-code/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/ragu125/leet-code/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/ragu125/leet-code/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/ragu125/leet-code/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/ragu125/leet-code/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ragu125/leet-code/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ragu125/leet-code/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ragu125/leet-code/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/ragu125/leet-code/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
