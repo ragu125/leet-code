@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ragu125/leet-code/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/ragu125/leet-code/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/ragu125/leet-code/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/ragu125/leet-code/tree/master/0771-jewels-and-stones) |
 | [1668-maximum-repeating-substring](https://github.com/ragu125/leet-code/tree/master/1668-maximum-repeating-substring) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/ragu125/leet-code/tree/master/1812-determine-color-of-a-chessboard-square) |
 ## Stack
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/ragu125/leet-code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ragu125/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ragu125/leet-code/tree/master/0389-find-the-difference) |
+| [0771-jewels-and-stones](https://github.com/ragu125/leet-code/tree/master/0771-jewels-and-stones) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ragu125/leet-code/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ragu125/leet-code/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ragu125/leet-code/tree/master/3718-smallest-missing-multiple-of-k) |
