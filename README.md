@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/ragu125/leet-code/tree/master/0908-smallest-range-i) |
 | [1470-shuffle-the-array](https://github.com/ragu125/leet-code/tree/master/1470-shuffle-the-array) |
 | [1539-kth-missing-positive-number](https://github.com/ragu125/leet-code/tree/master/1539-kth-missing-positive-number) |
+| [1672-richest-customer-wealth](https://github.com/ragu125/leet-code/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/ragu125/leet-code/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ragu125/leet-code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ragu125/leet-code/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -338,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ragu125/leet-code/tree/master/0258-add-digits) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/ragu125/leet-code/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
