@@ -5,5 +5,5 @@ class Solution:
         for i in accounts:
             res.append(sum(i))
 
-        return max(res)    
+        return max(res)
         
