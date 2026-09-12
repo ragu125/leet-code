@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/ragu125/leet-code/tree/master/0908-smallest-range-i) |
 | [1025-divisor-game](https://github.com/ragu125/leet-code/tree/master/1025-divisor-game) |
 | [1323-maximum-69-number](https://github.com/ragu125/leet-code/tree/master/1323-maximum-69-number) |
+| [1641-count-sorted-vowel-strings](https://github.com/ragu125/leet-code/tree/master/1641-count-sorted-vowel-strings) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/ragu125/leet-code/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ragu125/leet-code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/ragu125/leet-code/tree/master/3870-count-commas-in-range) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ragu125/leet-code/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/ragu125/leet-code/tree/master/0678-valid-parenthesis-string) |
 | [1025-divisor-game](https://github.com/ragu125/leet-code/tree/master/1025-divisor-game) |
+| [1641-count-sorted-vowel-strings](https://github.com/ragu125/leet-code/tree/master/1641-count-sorted-vowel-strings) |
 | [1668-maximum-repeating-substring](https://github.com/ragu125/leet-code/tree/master/1668-maximum-repeating-substring) |
 ## Manacher
 |  |
@@ -378,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/ragu125/leet-code/tree/master/0274-h-index) |
+## Combinatorics
+|  |
+| ------- |
+| [1641-count-sorted-vowel-strings](https://github.com/ragu125/leet-code/tree/master/1641-count-sorted-vowel-strings) |
 <!---LeetCode Topics End-->
