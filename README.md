@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ragu125/leet-code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/ragu125/leet-code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ragu125/leet-code/tree/master/0137-single-number-ii) |
+| [0162-find-peak-element](https://github.com/ragu125/leet-code/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ragu125/leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ragu125/leet-code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ragu125/leet-code/tree/master/0189-rotate-array) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ragu125/leet-code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/ragu125/leet-code/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/ragu125/leet-code/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ragu125/leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/ragu125/leet-code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ragu125/leet-code/tree/master/0349-intersection-of-two-arrays) |
