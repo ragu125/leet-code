@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/ragu125/leet-code/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/ragu125/leet-code/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/ragu125/leet-code/tree/master/0509-fibonacci-number) |
+| [0728-self-dividing-numbers](https://github.com/ragu125/leet-code/tree/master/0728-self-dividing-numbers) |
 | [0908-smallest-range-i](https://github.com/ragu125/leet-code/tree/master/0908-smallest-range-i) |
 | [1025-divisor-game](https://github.com/ragu125/leet-code/tree/master/1025-divisor-game) |
 | [1323-maximum-69-number](https://github.com/ragu125/leet-code/tree/master/1323-maximum-69-number) |
