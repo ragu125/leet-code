@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/ragu125/leet-code/tree/master/1002-find-common-characters) |
 | [1668-maximum-repeating-substring](https://github.com/ragu125/leet-code/tree/master/1668-maximum-repeating-substring) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/ragu125/leet-code/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [2418-sort-the-people](https://github.com/ragu125/leet-code/tree/master/2418-sort-the-people) |
 ## Stack
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/ragu125/leet-code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ragu125/leet-code/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ragu125/leet-code/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2418-sort-the-people](https://github.com/ragu125/leet-code/tree/master/2418-sort-the-people) |
 | [3663-find-the-least-frequent-digit](https://github.com/ragu125/leet-code/tree/master/3663-find-the-least-frequent-digit) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ragu125/leet-code/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ragu125/leet-code/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/ragu125/leet-code/tree/master/0771-jewels-and-stones) |
 | [1002-find-common-characters](https://github.com/ragu125/leet-code/tree/master/1002-find-common-characters) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ragu125/leet-code/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2418-sort-the-people](https://github.com/ragu125/leet-code/tree/master/2418-sort-the-people) |
 | [3663-find-the-least-frequent-digit](https://github.com/ragu125/leet-code/tree/master/3663-find-the-least-frequent-digit) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ragu125/leet-code/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ragu125/leet-code/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ragu125/leet-code/tree/master/0455-assign-cookies) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ragu125/leet-code/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ragu125/leet-code/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2418-sort-the-people](https://github.com/ragu125/leet-code/tree/master/2418-sort-the-people) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ragu125/leet-code/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/ragu125/leet-code/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/ragu125/leet-code/tree/master/3745-maximize-expression-of-three-elements) |
