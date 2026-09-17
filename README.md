@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1668-maximum-repeating-substring](https://github.com/ragu125/leet-code/tree/master/1668-maximum-repeating-substring) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ragu125/leet-code/tree/master/1796-second-largest-digit-in-a-string) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/ragu125/leet-code/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1859-sorting-the-sentence](https://github.com/ragu125/leet-code/tree/master/1859-sorting-the-sentence) |
 | [2418-sort-the-people](https://github.com/ragu125/leet-code/tree/master/2418-sort-the-people) |
 | [2716-minimize-string-length](https://github.com/ragu125/leet-code/tree/master/2716-minimize-string-length) |
 ## Stack
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ragu125/leet-code/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ragu125/leet-code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ragu125/leet-code/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1859-sorting-the-sentence](https://github.com/ragu125/leet-code/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ragu125/leet-code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/ragu125/leet-code/tree/master/2418-sort-the-people) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ragu125/leet-code/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -449,4 +451,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ragu125/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/ragu125/leet-code/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
