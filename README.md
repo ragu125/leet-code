@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ragu125/leet-code/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/ragu125/leet-code/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/ragu125/leet-code/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ragu125/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ragu125/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ragu125/leet-code/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ragu125/leet-code/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ragu125/leet-code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ragu125/leet-code/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ragu125/leet-code/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ragu125/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ragu125/leet-code/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ragu125/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/ragu125/leet-code/tree/master/0455-assign-cookies) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ragu125/leet-code/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/ragu125/leet-code/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/ragu125/leet-code/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ragu125/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/ragu125/leet-code/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/ragu125/leet-code/tree/master/0389-find-the-difference) |
 ## Simulation
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ragu125/leet-code/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/ragu125/leet-code/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -240,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ragu125/leet-code/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ragu125/leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/ragu125/leet-code/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ragu125/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ragu125/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/ragu125/leet-code/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ragu125/leet-code/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -400,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/ragu125/leet-code/tree/master/0164-maximum-gap) |
+| [0287-find-the-duplicate-number](https://github.com/ragu125/leet-code/tree/master/0287-find-the-duplicate-number) |
 ## Counting Sort
 |  |
 | ------- |
