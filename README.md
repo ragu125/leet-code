@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/ragu125/leet-code/tree/master/1002-find-common-characters) |
 | [1089-duplicate-zeros](https://github.com/ragu125/leet-code/tree/master/1089-duplicate-zeros) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ragu125/leet-code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ragu125/leet-code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/ragu125/leet-code/tree/master/1470-shuffle-the-array) |
 | [1539-kth-missing-positive-number](https://github.com/ragu125/leet-code/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/ragu125/leet-code/tree/master/1672-richest-customer-wealth) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/ragu125/leet-code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0658-find-k-closest-elements](https://github.com/ragu125/leet-code/tree/master/0658-find-k-closest-elements) |
 | [1089-duplicate-zeros](https://github.com/ragu125/leet-code/tree/master/1089-duplicate-zeros) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ragu125/leet-code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String Matching
 |  |
 | ------- |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/ragu125/leet-code/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/ragu125/leet-code/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ragu125/leet-code/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ragu125/leet-code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/ragu125/leet-code/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ragu125/leet-code/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Greedy
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/ragu125/leet-code/tree/master/0692-top-k-frequent-words) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ragu125/leet-code/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ragu125/leet-code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ragu125/leet-code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ragu125/leet-code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/ragu125/leet-code/tree/master/2418-sort-the-people) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ragu125/leet-code/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
