@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/ragu125/leet-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ragu125/leet-code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/ragu125/leet-code/tree/master/0455-assign-cookies) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ragu125/leet-code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ragu125/leet-code/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ragu125/leet-code/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ragu125/leet-code/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ragu125/leet-code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ragu125/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ragu125/leet-code/tree/master/0349-intersection-of-two-arrays) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ragu125/leet-code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ragu125/leet-code/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ragu125/leet-code/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1539-kth-missing-positive-number](https://github.com/ragu125/leet-code/tree/master/1539-kth-missing-positive-number) |
