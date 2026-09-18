@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ragu125/leet-code/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/ragu125/leet-code/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/ragu125/leet-code/tree/master/0434-number-of-segments-in-a-string) |
+| [0541-reverse-string-ii](https://github.com/ragu125/leet-code/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ragu125/leet-code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0678-valid-parenthesis-string](https://github.com/ragu125/leet-code/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/ragu125/leet-code/tree/master/0692-top-k-frequent-words) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ragu125/leet-code/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ragu125/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/ragu125/leet-code/tree/master/0455-assign-cookies) |
+| [0541-reverse-string-ii](https://github.com/ragu125/leet-code/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ragu125/leet-code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0658-find-k-closest-elements](https://github.com/ragu125/leet-code/tree/master/0658-find-k-closest-elements) |
 | [1089-duplicate-zeros](https://github.com/ragu125/leet-code/tree/master/1089-duplicate-zeros) |
