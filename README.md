@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/ragu125/leet-code/tree/master/1796-second-largest-digit-in-a-string) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/ragu125/leet-code/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1859-sorting-the-sentence](https://github.com/ragu125/leet-code/tree/master/1859-sorting-the-sentence) |
+| [1880-check-if-word-equals-summation-of-two-words](https://github.com/ragu125/leet-code/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ragu125/leet-code/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2418-sort-the-people](https://github.com/ragu125/leet-code/tree/master/2418-sort-the-people) |
 | [2716-minimize-string-length](https://github.com/ragu125/leet-code/tree/master/2716-minimize-string-length) |
