@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/ragu125/leet-code/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ragu125/leet-code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ragu125/leet-code/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/ragu125/leet-code/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ragu125/leet-code/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/ragu125/leet-code/tree/master/2418-sort-the-people) |
 | [3663-find-the-least-frequent-digit](https://github.com/ragu125/leet-code/tree/master/3663-find-the-least-frequent-digit) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ragu125/leet-code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1859-sorting-the-sentence](https://github.com/ragu125/leet-code/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ragu125/leet-code/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/ragu125/leet-code/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2418-sort-the-people](https://github.com/ragu125/leet-code/tree/master/2418-sort-the-people) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ragu125/leet-code/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/ragu125/leet-code/tree/master/3731-find-missing-elements) |
