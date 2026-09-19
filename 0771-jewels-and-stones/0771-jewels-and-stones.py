@@ -6,4 +6,3 @@ class Solution:
             if i in jewels:
                 res.append(i)
         return len(res)        
-        
