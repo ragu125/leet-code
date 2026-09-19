@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ragu125/leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ragu125/leet-code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/ragu125/leet-code/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/ragu125/leet-code/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ragu125/leet-code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/ragu125/leet-code/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/ragu125/leet-code/tree/master/0692-top-k-frequent-words) |
