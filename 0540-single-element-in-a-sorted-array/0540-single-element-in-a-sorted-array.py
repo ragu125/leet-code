@@ -6,4 +6,4 @@ class Solution:
         for i in c:
             if c[i]==1:
                 return i
-        
+                break
