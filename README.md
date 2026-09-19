@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/ragu125/leet-code/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/ragu125/leet-code/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/ragu125/leet-code/tree/master/0771-jewels-and-stones) |
+| [0791-custom-sort-string](https://github.com/ragu125/leet-code/tree/master/0791-custom-sort-string) |
 | [0796-rotate-string](https://github.com/ragu125/leet-code/tree/master/0796-rotate-string) |
 | [1002-find-common-characters](https://github.com/ragu125/leet-code/tree/master/1002-find-common-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ragu125/leet-code/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/ragu125/leet-code/tree/master/0575-distribute-candies) |
 | [0692-top-k-frequent-words](https://github.com/ragu125/leet-code/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/ragu125/leet-code/tree/master/0771-jewels-and-stones) |
+| [0791-custom-sort-string](https://github.com/ragu125/leet-code/tree/master/0791-custom-sort-string) |
 | [1002-find-common-characters](https://github.com/ragu125/leet-code/tree/master/1002-find-common-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ragu125/leet-code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ragu125/leet-code/tree/master/1796-second-largest-digit-in-a-string) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/ragu125/leet-code/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/ragu125/leet-code/tree/master/0692-top-k-frequent-words) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ragu125/leet-code/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0791-custom-sort-string](https://github.com/ragu125/leet-code/tree/master/0791-custom-sort-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ragu125/leet-code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ragu125/leet-code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1859-sorting-the-sentence](https://github.com/ragu125/leet-code/tree/master/1859-sorting-the-sentence) |
