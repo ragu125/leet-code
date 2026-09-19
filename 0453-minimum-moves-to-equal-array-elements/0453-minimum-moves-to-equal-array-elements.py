@@ -1,3 +1,9 @@
 class Solution:
     def minMoves(self, nums: list[int]) -> int:
-        return (sum(nums)-min(nums)*len(nums))
+        minimum=min(nums)
+        total=0
+
+        for i in nums:
+            total+=i-minimum
+
+        return total    
