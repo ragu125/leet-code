@@ -1,8 +1,8 @@
 from itertools import permutations
 class Solution:
-    def permute(self, nums: List[int]) -> List[List[int]]:
+    def permute(self, nums: list[int]) -> list[list[int]]:
+        p=permutations(nums)
         res=[]
-        for i in permutations(nums):
-            res.append(list(i))
-
-        return res
+        for i in p:
+            res.append(i)
+        return res    
