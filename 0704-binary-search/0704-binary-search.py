@@ -8,10 +8,10 @@ class Solution:
 
             if nums[m]==target:
                 return m
-            elif nums[m]<target:
-                l=m+1
             elif nums[m]>target:
                 r=m-1
-        return -1                
+            elif nums[m]<target:
+                l=m+1   
+        return -1                                
 
 
