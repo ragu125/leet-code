@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/ragu125/leet-code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/ragu125/leet-code/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ragu125/leet-code/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/ragu125/leet-code/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/ragu125/leet-code/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/ragu125/leet-code/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/ragu125/leet-code/tree/master/0704-binary-search) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ragu125/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/ragu125/leet-code/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/ragu125/leet-code/tree/master/0658-find-k-closest-elements) |
 ## Prefix Sum
 |  |
