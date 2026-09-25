@@ -5,8 +5,7 @@ class Solution:
         for i in s:
             if i.isdigit():
                 res.append(int(i))
-        a=list(sorted(set(res)))        
+        a=list(sorted(set(res))) 
         if len(a)<2:
-            return -1
-        else:
-            return a[-2]          
+            return -1     
+        return a[-2]            
