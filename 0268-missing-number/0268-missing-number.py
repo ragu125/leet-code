@@ -1,8 +1,6 @@
+from itertools import count
 class Solution:
-    def missingNumber(self, nums: List[int]) -> int:
-        n=len(nums)
-
-        for i in range(n+1):
+    def missingNumber(self, nums: list[int]) -> int:
+        for i in count(0):
             if i not in nums:
-                return i 
-                break
+                return i
