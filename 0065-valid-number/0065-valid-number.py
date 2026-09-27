@@ -1,10 +1,9 @@
 class Solution:
     def isNumber(self, s: str) -> bool:
-        if s in ["inf","-inf","+inf","Infinity","-Infinity","NaN","+Infinity","nan"]:
+        if s in ["Inf","-INF","Infinity","inf","-inf","+inf","INFINITY","-Infinity","+Infinity","Nan","nan"]:
             return False
         try:
             float(s)
             return True
         except:
             return False    
-        
