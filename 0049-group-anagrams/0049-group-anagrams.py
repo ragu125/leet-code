@@ -9,4 +9,3 @@ class Solution:
                 d[key]=[]
             d[key].append(i)
         return list(d.values())        
-        
