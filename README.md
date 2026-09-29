@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/ragu125/leet-code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ragu125/leet-code/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/ragu125/leet-code/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ragu125/leet-code/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/ragu125/leet-code/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/ragu125/leet-code/tree/master/0066-plus-one) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/ragu125/leet-code/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/ragu125/leet-code/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ragu125/leet-code/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/ragu125/leet-code/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ragu125/leet-code/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/ragu125/leet-code/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/ragu125/leet-code/tree/master/0078-subsets) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ragu125/leet-code/tree/master/0048-rotate-image) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ragu125/leet-code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/ragu125/leet-code/tree/master/1672-richest-customer-wealth) |
 ## Bucket Sort
