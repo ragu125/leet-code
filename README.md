@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/ragu125/leet-code/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ragu125/leet-code/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/ragu125/leet-code/tree/master/2418-sort-the-people) |
+| [2553-separate-the-digits-in-an-array](https://github.com/ragu125/leet-code/tree/master/2553-separate-the-digits-in-an-array) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/ragu125/leet-code/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ragu125/leet-code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3663-find-the-least-frequent-digit](https://github.com/ragu125/leet-code/tree/master/3663-find-the-least-frequent-digit) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/ragu125/leet-code/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ragu125/leet-code/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/ragu125/leet-code/tree/master/1929-concatenation-of-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/ragu125/leet-code/tree/master/2553-separate-the-digits-in-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/ragu125/leet-code/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
