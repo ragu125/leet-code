@@ -4,10 +4,10 @@ class Solution:
         ans=0
 
         for i in s:
-            if i =="(":
+            if i=="(":
                 open+=1
             elif open:
                 open-=1
             else:
                 ans+=1
-        return open+ans                
+        return ans+open                
