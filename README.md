@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ragu125/leet-code/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/ragu125/leet-code/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/ragu125/leet-code/tree/master/1748-sum-of-unique-elements) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ragu125/leet-code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/ragu125/leet-code/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/ragu125/leet-code/tree/master/1991-find-the-middle-index-in-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ragu125/leet-code/tree/master/2053-kth-distinct-string-in-an-array) |
