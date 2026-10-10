@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/ragu125/leet-code/tree/master/3663-find-the-least-frequent-digit) |
 | [3870-count-commas-in-range](https://github.com/ragu125/leet-code/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ragu125/leet-code/tree/master/3875-construct-uniform-parity-array-i) |
+| [3908-valid-digit-number](https://github.com/ragu125/leet-code/tree/master/3908-valid-digit-number) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/ragu125/leet-code/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## String
 |  |
