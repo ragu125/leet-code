@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3895-count-digit-appearances](https://github.com/ragu125/leet-code/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/ragu125/leet-code/tree/master/3903-smallest-stable-index-i) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/ragu125/leet-code/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/ragu125/leet-code/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/ragu125/leet-code/tree/master/2553-separate-the-digits-in-an-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/ragu125/leet-code/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/ragu125/leet-code/tree/master/3498-reverse-degree-of-a-string) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/ragu125/leet-code/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ragu125/leet-code/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ragu125/leet-code/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ragu125/leet-code/tree/master/3731-find-missing-elements) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/ragu125/leet-code/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ragu125/leet-code/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/ragu125/leet-code/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/ragu125/leet-code/tree/master/3745-maximize-expression-of-three-elements) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/ragu125/leet-code/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Counting
 |  |
 | ------- |
@@ -431,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/ragu125/leet-code/tree/master/1748-sum-of-unique-elements) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ragu125/leet-code/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3663-find-the-least-frequent-digit](https://github.com/ragu125/leet-code/tree/master/3663-find-the-least-frequent-digit) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/ragu125/leet-code/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -567,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ragu125/leet-code/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/ragu125/leet-code/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/ragu125/leet-code/tree/master/0692-top-k-frequent-words) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/ragu125/leet-code/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Quickselect
 |  |
 | ------- |
@@ -591,4 +597,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/ragu125/leet-code/tree/master/1250-check-if-it-is-a-good-array) |
+## Ordered Set
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/ragu125/leet-code/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 <!---LeetCode Topics End-->
