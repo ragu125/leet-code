@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/ragu125/leet-code/tree/master/0908-smallest-range-i) |
 | [1025-divisor-game](https://github.com/ragu125/leet-code/tree/master/1025-divisor-game) |
 | [1250-check-if-it-is-a-good-array](https://github.com/ragu125/leet-code/tree/master/1250-check-if-it-is-a-good-array) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ragu125/leet-code/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ragu125/leet-code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/ragu125/leet-code/tree/master/1323-maximum-69-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/ragu125/leet-code/tree/master/1588-sum-of-all-odd-length-subarrays) |
