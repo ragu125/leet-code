@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ragu125/leet-code/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/ragu125/leet-code/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/ragu125/leet-code/tree/master/0678-valid-parenthesis-string) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/ragu125/leet-code/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ragu125/leet-code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ragu125/leet-code/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ragu125/leet-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ragu125/leet-code/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ragu125/leet-code/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ragu125/leet-code/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/ragu125/leet-code/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0908-smallest-range-i](https://github.com/ragu125/leet-code/tree/master/0908-smallest-range-i) |
 | [1002-find-common-characters](https://github.com/ragu125/leet-code/tree/master/1002-find-common-characters) |
 | [1089-duplicate-zeros](https://github.com/ragu125/leet-code/tree/master/1089-duplicate-zeros) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ragu125/leet-code/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/ragu125/leet-code/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/ragu125/leet-code/tree/master/0678-valid-parenthesis-string) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/ragu125/leet-code/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ragu125/leet-code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1323-maximum-69-number](https://github.com/ragu125/leet-code/tree/master/1323-maximum-69-number) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ragu125/leet-code/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/ragu125/leet-code/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/ragu125/leet-code/tree/master/0692-top-k-frequent-words) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ragu125/leet-code/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/ragu125/leet-code/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0791-custom-sort-string](https://github.com/ragu125/leet-code/tree/master/0791-custom-sort-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ragu125/leet-code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ragu125/leet-code/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -611,4 +615,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/ragu125/leet-code/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/ragu125/leet-code/tree/master/0768-max-chunks-to-make-sorted-ii) |
 <!---LeetCode Topics End-->
