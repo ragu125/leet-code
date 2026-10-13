@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/ragu125/leet-code/tree/master/1859-sorting-the-sentence) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/ragu125/leet-code/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ragu125/leet-code/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/ragu125/leet-code/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2418-sort-the-people](https://github.com/ragu125/leet-code/tree/master/2418-sort-the-people) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/ragu125/leet-code/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2716-minimize-string-length](https://github.com/ragu125/leet-code/tree/master/2716-minimize-string-length) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/ragu125/leet-code/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ragu125/leet-code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ragu125/leet-code/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/ragu125/leet-code/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ragu125/leet-code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/ragu125/leet-code/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ragu125/leet-code/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/ragu125/leet-code/tree/master/0658-find-k-closest-elements) |
 | [1089-duplicate-zeros](https://github.com/ragu125/leet-code/tree/master/1089-duplicate-zeros) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ragu125/leet-code/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/ragu125/leet-code/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2540-minimum-common-value](https://github.com/ragu125/leet-code/tree/master/2540-minimum-common-value) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/ragu125/leet-code/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## String Matching
