@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/ragu125/leet-code/tree/master/1122-relative-sort-array) |
 | [1250-check-if-it-is-a-good-array](https://github.com/ragu125/leet-code/tree/master/1250-check-if-it-is-a-good-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ragu125/leet-code/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1331-rank-transform-of-an-array](https://github.com/ragu125/leet-code/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ragu125/leet-code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ragu125/leet-code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/ragu125/leet-code/tree/master/1470-shuffle-the-array) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/ragu125/leet-code/tree/master/0791-custom-sort-string) |
 | [1002-find-common-characters](https://github.com/ragu125/leet-code/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/ragu125/leet-code/tree/master/1122-relative-sort-array) |
+| [1331-rank-transform-of-an-array](https://github.com/ragu125/leet-code/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ragu125/leet-code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/ragu125/leet-code/tree/master/1748-sum-of-unique-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ragu125/leet-code/tree/master/1796-second-largest-digit-in-a-string) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/ragu125/leet-code/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0791-custom-sort-string](https://github.com/ragu125/leet-code/tree/master/0791-custom-sort-string) |
 | [1122-relative-sort-array](https://github.com/ragu125/leet-code/tree/master/1122-relative-sort-array) |
+| [1331-rank-transform-of-an-array](https://github.com/ragu125/leet-code/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ragu125/leet-code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ragu125/leet-code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1859-sorting-the-sentence](https://github.com/ragu125/leet-code/tree/master/1859-sorting-the-sentence) |
