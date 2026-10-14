@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/ragu125/leet-code/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/ragu125/leet-code/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ragu125/leet-code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1833-maximum-ice-cream-bars](https://github.com/ragu125/leet-code/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/ragu125/leet-code/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ragu125/leet-code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1991-find-the-middle-index-in-array](https://github.com/ragu125/leet-code/tree/master/1991-find-the-middle-index-in-array) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/ragu125/leet-code/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ragu125/leet-code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1323-maximum-69-number](https://github.com/ragu125/leet-code/tree/master/1323-maximum-69-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/ragu125/leet-code/tree/master/1833-maximum-ice-cream-bars) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ragu125/leet-code/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ragu125/leet-code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ragu125/leet-code/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/ragu125/leet-code/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ragu125/leet-code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ragu125/leet-code/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1833-maximum-ice-cream-bars](https://github.com/ragu125/leet-code/tree/master/1833-maximum-ice-cream-bars) |
 | [1859-sorting-the-sentence](https://github.com/ragu125/leet-code/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ragu125/leet-code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ragu125/leet-code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -593,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/ragu125/leet-code/tree/master/0274-h-index) |
 | [1122-relative-sort-array](https://github.com/ragu125/leet-code/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ragu125/leet-code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/ragu125/leet-code/tree/master/1833-maximum-ice-cream-bars) |
 ## Combinatorics
 |  |
 | ------- |
