@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/ragu125/leet-code/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1859-sorting-the-sentence](https://github.com/ragu125/leet-code/tree/master/1859-sorting-the-sentence) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/ragu125/leet-code/tree/master/1880-check-if-word-equals-summation-of-two-words) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ragu125/leet-code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ragu125/leet-code/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ragu125/leet-code/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2418-sort-the-people](https://github.com/ragu125/leet-code/tree/master/2418-sort-the-people) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/ragu125/leet-code/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ragu125/leet-code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/ragu125/leet-code/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ragu125/leet-code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1991-find-the-middle-index-in-array](https://github.com/ragu125/leet-code/tree/master/1991-find-the-middle-index-in-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ragu125/leet-code/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ragu125/leet-code/tree/master/2089-find-target-indices-after-sorting-array) |
