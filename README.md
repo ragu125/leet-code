@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/ragu125/leet-code/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/ragu125/leet-code/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/ragu125/leet-code/tree/master/3612-process-string-with-special-operations-i) |
+| [3798-largest-even-number](https://github.com/ragu125/leet-code/tree/master/3798-largest-even-number) |
 | [3931-check-adjacent-digit-differences](https://github.com/ragu125/leet-code/tree/master/3931-check-adjacent-digit-differences) |
 ## Stack
 |  |
