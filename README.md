@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ragu125/leet-code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/ragu125/leet-code/tree/master/2119-a-number-after-a-double-reversal) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/ragu125/leet-code/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2485-find-the-pivot-integer](https://github.com/ragu125/leet-code/tree/master/2485-find-the-pivot-integer) |
 | [2928-distribute-candies-among-children-i](https://github.com/ragu125/leet-code/tree/master/2928-distribute-candies-among-children-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ragu125/leet-code/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ragu125/leet-code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/ragu125/leet-code/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/ragu125/leet-code/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/ragu125/leet-code/tree/master/1991-find-the-middle-index-in-array) |
+| [2485-find-the-pivot-integer](https://github.com/ragu125/leet-code/tree/master/2485-find-the-pivot-integer) |
 | [3903-smallest-stable-index-i](https://github.com/ragu125/leet-code/tree/master/3903-smallest-stable-index-i) |
 ## Brainteaser
 |  |
