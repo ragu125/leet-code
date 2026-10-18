@@ -8,4 +8,5 @@ class Solution:
             if key not in d:
                 d[key]=[]
             d[key].append(i)
+
         return list(d.values())        
