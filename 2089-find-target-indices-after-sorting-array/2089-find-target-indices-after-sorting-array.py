@@ -8,4 +8,4 @@ class Solution:
         if len(res)==0:
             return []
         else:
-            return res            
+            return res
