@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/ragu125/leet-code/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/ragu125/leet-code/tree/master/3612-process-string-with-special-operations-i) |
 | [3798-largest-even-number](https://github.com/ragu125/leet-code/tree/master/3798-largest-even-number) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/ragu125/leet-code/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3931-check-adjacent-digit-differences](https://github.com/ragu125/leet-code/tree/master/3931-check-adjacent-digit-differences) |
 ## Stack
 |  |
