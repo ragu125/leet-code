@@ -1,13 +1,13 @@
 class Solution:
-    def moveZeroes(self, nums: List[int]) -> None:
-        zeros=[]
+    def moveZeroes(self, nums: list[int]) -> None:
         res=[]
+        z=[]
 
         for i in nums:
             if i ==0:
-                zeros.append(i)
+                z.append(i)
             else:
                 res.append(i)
-        nums[:]=res+zeros
-        return nums                        
-       
+
+        nums[:]=res+z
+        return nums            
