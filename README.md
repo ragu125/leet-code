@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/ragu125/leet-code/tree/master/1002-find-common-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ragu125/leet-code/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/ragu125/leet-code/tree/master/1147-longest-chunked-palindrome-decomposition) |
+| [1189-maximum-number-of-balloons](https://github.com/ragu125/leet-code/tree/master/1189-maximum-number-of-balloons) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/ragu125/leet-code/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1528-shuffle-string](https://github.com/ragu125/leet-code/tree/master/1528-shuffle-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ragu125/leet-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/ragu125/leet-code/tree/master/0791-custom-sort-string) |
 | [1002-find-common-characters](https://github.com/ragu125/leet-code/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/ragu125/leet-code/tree/master/1122-relative-sort-array) |
+| [1189-maximum-number-of-balloons](https://github.com/ragu125/leet-code/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/ragu125/leet-code/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ragu125/leet-code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/ragu125/leet-code/tree/master/1748-sum-of-unique-elements) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ragu125/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ragu125/leet-code/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/ragu125/leet-code/tree/master/0692-top-k-frequent-words) |
+| [1189-maximum-number-of-balloons](https://github.com/ragu125/leet-code/tree/master/1189-maximum-number-of-balloons) |
 | [1748-sum-of-unique-elements](https://github.com/ragu125/leet-code/tree/master/1748-sum-of-unique-elements) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ragu125/leet-code/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3663-find-the-least-frequent-digit](https://github.com/ragu125/leet-code/tree/master/3663-find-the-least-frequent-digit) |
