@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/ragu125/leet-code/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ragu125/leet-code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3663-find-the-least-frequent-digit](https://github.com/ragu125/leet-code/tree/master/3663-find-the-least-frequent-digit) |
+| [3665-twisted-mirror-path-count](https://github.com/ragu125/leet-code/tree/master/3665-twisted-mirror-path-count) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ragu125/leet-code/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ragu125/leet-code/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ragu125/leet-code/tree/master/3731-find-missing-elements) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/ragu125/leet-code/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1641-count-sorted-vowel-strings](https://github.com/ragu125/leet-code/tree/master/1641-count-sorted-vowel-strings) |
 | [1668-maximum-repeating-substring](https://github.com/ragu125/leet-code/tree/master/1668-maximum-repeating-substring) |
+| [3665-twisted-mirror-path-count](https://github.com/ragu125/leet-code/tree/master/3665-twisted-mirror-path-count) |
 ## Manacher
 |  |
 | ------- |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ragu125/leet-code/tree/master/0048-rotate-image) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ragu125/leet-code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/ragu125/leet-code/tree/master/1672-richest-customer-wealth) |
+| [3665-twisted-mirror-path-count](https://github.com/ragu125/leet-code/tree/master/3665-twisted-mirror-path-count) |
 ## Bucket Sort
 |  |
 | ------- |
